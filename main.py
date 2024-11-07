@@ -9,3 +9,6 @@ if __name__=="__main__":
 
 # this comment will break the merge
 >>>>>>> feat/player
+
+# this change for git repository
+
